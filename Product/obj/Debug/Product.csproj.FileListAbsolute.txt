@@ -1,0 +1,7 @@
+C:\Users\PNT\Desktop\1294109\1294109\Product\bin\Debug\Product.exe.config
+C:\Users\PNT\Desktop\1294109\1294109\Product\bin\Debug\Product.exe
+C:\Users\PNT\Desktop\1294109\1294109\Product\bin\Debug\Product.pdb
+C:\Users\PNT\Desktop\1294109\1294109\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+C:\Users\PNT\Desktop\1294109\1294109\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\PNT\Desktop\1294109\1294109\Product\obj\Debug\Product.exe
+C:\Users\PNT\Desktop\1294109\1294109\Product\obj\Debug\Product.pdb
